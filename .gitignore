@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Runtime artifacts
+last_session_transcript.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+# (keep everything else)
