@@ -32,7 +32,7 @@ streamlit run agent/app.py
 
 The tree structure visualizes all 33 nodes and decision branches:
 
-<img src="tree-diagram.png" width="500" alt="Daily Reflection Tree Flowchart">
+<img src="tree-diagram.png" width="300" alt="Daily Reflection Tree Flowchart">
 
 ---
 
