@@ -1,12 +1,3 @@
-"""
-Daily Reflection Tree — Streamlit Web App
-Loads reflection-tree.json and walks the employee through a deterministic
-reflection session. No LLM calls at runtime. Fully deterministic.
-
-Run with:
-    streamlit run agent/app.py
-"""
-
 import json
 import streamlit as st # type: ignore
 from pathlib import Path
